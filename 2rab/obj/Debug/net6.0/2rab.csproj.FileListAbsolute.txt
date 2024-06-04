@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\2rab\2rab\bin\Debug\net6.0\2rab.exe
+C:\Users\sasha\source\repos\2rab\2rab\bin\Debug\net6.0\2rab.deps.json
+C:\Users\sasha\source\repos\2rab\2rab\bin\Debug\net6.0\2rab.runtimeconfig.json
+C:\Users\sasha\source\repos\2rab\2rab\bin\Debug\net6.0\2rab.dll
+C:\Users\sasha\source\repos\2rab\2rab\bin\Debug\net6.0\2rab.pdb
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.AssemblyInfo.cs
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.dll
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\refint\2rab.dll
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.pdb
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\2rab.genruntimeconfig.cache
+C:\Users\sasha\source\repos\2rab\2rab\obj\Debug\net6.0\ref\2rab.dll
